@@ -1,1 +1,4 @@
 This folder contains 3D-printed directly conductive EEG electrodes with different designs
+
+
+For each STL file, we include two models for each type, because we printed the electrodes pairwise using these setup. The reason is: printing more than 2 model in one run could provide better printing quality, giving better printing details to the small snap connectors on the top  
