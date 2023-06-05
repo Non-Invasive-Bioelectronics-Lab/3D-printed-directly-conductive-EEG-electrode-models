@@ -7,4 +7,6 @@
   (2). Short fingered electrodes: with small, medium, large contact areas;
   (3). Long fingered electrodes: with small medium, large contact areas;
   
-  We investigated more effects of different designs of EEG electrode, and will be published as a journal paper.
+  We investigated more effects of different designs of EEG electrode.
+  
+ 3. More systematica studies have been published in "Sensors and Actuators A: Physical", the models are in "Electrode_models_Journal"
