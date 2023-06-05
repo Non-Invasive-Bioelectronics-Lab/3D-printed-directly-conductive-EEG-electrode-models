@@ -1,6 +1,6 @@
 # 3D-printed-directly-conductive-EEG-electrode-models
 
-1. The models in this branch are: 3D printed directly conductive and flexible EEG electrode models (we published in IEEE FLEPS2022 conference proceedings)
+1. The models in this branch are: 3D printed directly conductive and flexible EEG electrode models (we published in IEEE FLEPS2022 conference proceedings). DOI: https://ieeexplore.ieee.org/document/9781489
 
 2. The folder "Electrode_models_Journal" contains 9 different models: 
   (1). Flat circle electrodes: with small, medium, large contact areas;
