@@ -2,3 +2,8 @@ This folder contains 3D-printed directly conductive EEG electrodes with differen
 
 
 For each STL file, we include two models for each type, because we printed the electrodes pairwise using these setup. The reason is: printing more than 2 model in one run could provide better printing quality, giving better printing details to the small snap connectors on the top  
+
+
+This work has been published in Sensors and Actuators A: Physical, which has a title "3D-printed, directly conductive and flexible electrodes for personalized electroencephalography".
+
+DOI: https://doi.org/10.1016/j.sna.2022.114062
