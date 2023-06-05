@@ -9,4 +9,4 @@
   
      We investigated more effects of different designs of EEG electrode.
   
- 3. More systematica studies have been published in "Sensors and Actuators A: Physical", the models are in "Electrode_models_Journal". DOI: https://doi.org/10.1016/j.sna.2022.114062
+ 3. More systematic studies have been published in "Sensors and Actuators A: Physical", the models are in "Electrode_models_Journal". DOI: https://doi.org/10.1016/j.sna.2022.114062
